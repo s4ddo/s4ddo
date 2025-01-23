@@ -1,13 +1,14 @@
 <div align="center">
   <a href="https://s4ddo.github.io">
-    <img src="https://github.com/user-attachments/assets/9ef237d2-fe78-43b9-a7a9-18e3d933f9f9" alt="Image Title">
+    <img src="https://github.com/user-attachments/assets/99ee4b35-68b4-4ead-ade6-a534ad5a92c1" alt="Image Title">
   </a>
 </div>
 
 <!--
 **s4ddo/s4ddo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:![ezgif com-optimize](https://github.com/user-attachments/assets/99ee4b35-68b4-4ead-ade6-a534ad5a92c1)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
