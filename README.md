@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://s4ddo.github.io">
-    <img src="https://github.com/user-attachments/assets/eb88770d-1ada-4a3c-bd95-4cbf87f84c2b" alt="Image Title">
+    <img src="https://github.com/user-attachments/assets/9ef237d2-fe78-43b9-a7a9-18e3d933f9f9" alt="Image Title">
   </a>
 </div>
 
